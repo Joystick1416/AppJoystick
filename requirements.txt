@@ -1,0 +1,4 @@
+pymongo
+streamlit
+azure-identity
+azure-keyvault-secrets
